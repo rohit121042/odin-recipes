@@ -1,0 +1,38 @@
+.homeheading, h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color : #EEFF41;
+    background-color: #00E676;
+    text-align: center;
+}
+
+.homelist {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color : #1B5E20;
+    font-weight: bold;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}
+
+h2 {
+    color: #004D40;
+}
+
+h3 {
+    color: #880E4F;
+}
+
+h4 {
+    color: #311B92;
+}
+
+h2, h3, h4 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+li,p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
